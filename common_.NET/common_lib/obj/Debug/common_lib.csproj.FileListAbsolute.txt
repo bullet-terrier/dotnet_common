@@ -1,0 +1,6 @@
+C:\Local_Code\repos\common_.NET\common_lib\bin\Debug\common_lib.dll
+C:\Local_Code\repos\common_.NET\common_lib\bin\Debug\common_lib.pdb
+C:\Local_Code\repos\common_.NET\common_lib\obj\Debug\common_lib.csprojAssemblyReference.cache
+C:\Local_Code\repos\common_.NET\common_lib\obj\Debug\common_lib.csproj.CoreCompileInputs.cache
+C:\Local_Code\repos\common_.NET\common_lib\obj\Debug\common_lib.dll
+C:\Local_Code\repos\common_.NET\common_lib\obj\Debug\common_lib.pdb

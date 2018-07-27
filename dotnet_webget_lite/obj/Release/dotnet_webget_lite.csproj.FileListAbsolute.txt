@@ -1,0 +1,6 @@
+C:\Local_code\repos\dotnet_webget_lite\dotnet_webget_lite\bin\Release\dotnet_webget_lite.exe.config
+C:\Local_code\repos\dotnet_webget_lite\dotnet_webget_lite\bin\Release\dotnet_webget_lite.exe
+C:\Local_code\repos\dotnet_webget_lite\dotnet_webget_lite\bin\Release\dotnet_webget_lite.pdb
+C:\Local_code\repos\dotnet_webget_lite\dotnet_webget_lite\obj\Release\dotnet_webget_lite.csproj.CoreCompileInputs.cache
+C:\Local_code\repos\dotnet_webget_lite\dotnet_webget_lite\obj\Release\dotnet_webget_lite.exe
+C:\Local_code\repos\dotnet_webget_lite\dotnet_webget_lite\obj\Release\dotnet_webget_lite.pdb
